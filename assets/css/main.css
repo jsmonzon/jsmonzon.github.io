@@ -2328,7 +2328,7 @@ input, select, textarea {
 	}
 
 	input[type="radio"] + label:before {
-		border-radius: 100%;
+		border-radius: 0%;
 	}
 
 	::-webkit-input-placeholder {
@@ -3400,7 +3400,7 @@ input, select, textarea {
 		}
 
 			#banner .logo .icon {
-				border-radius: 100%;
+				border-radius: 0%;
 				border: solid 2px rgba(255, 255, 255, 0.125);
 				cursor: default;
 				display: inline-block;
@@ -3466,7 +3466,7 @@ input, select, textarea {
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #2e3141;
-				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/main_image_deep_field_smacs0723-5mb.jpg");
+				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/main_image_deep_field_smacs0723-5mb.webp");
 				background-size: auto,
  cover;
 				background-position: center,
@@ -3799,19 +3799,19 @@ input, select, textarea {
 
 			.wrapper.spotlight .image {
 				border-radius: 0%;
-				margin: 0 0em 0em 0;
-				width: 33em;
+				margin: 0 3em 2em 0;
+				width: 22em;
 				overflow: hidden;
-				-ms-flex: 2;
+				-ms-flex: 1;
 			}
 
 				.wrapper.spotlight .image img {
-					border-radius: 1%;
+					border-radius: 0%;
 					width: 100%;
 				}
 
 			.wrapper.spotlight .content {
-				width: 80%;
+				width: 50%;
 				-ms-flex: 2;
 			}
 
