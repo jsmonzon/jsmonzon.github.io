@@ -7,6 +7,10 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/* .test{
+	text-align: justify;
+} */
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -2414,8 +2418,11 @@ input, select, textarea {
 	.image {
 		border-radius: 5px;
 		border: 0;
-		display: inline-block;
-		position: relative;
+		display:flex;
+		/* margin: auto; */
+		/* max-width: 200px; */
+		/* position: relative; */
+		/* position: center; */
 	}
 
 		.image img {
@@ -3609,8 +3616,7 @@ input, select, textarea {
 
 		#wrapper > header {
 			padding: 6.5em 2em 3em 2em ;
-			background-size: auto,
- 125%;
+			background-size: auto, 125%;
 			margin-bottom: -2.5em;
 		}
 
@@ -3944,7 +3950,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
-			.wrapper {
+			/* .wrapper {
 				margin: 2.5em 0;
 			}
 
@@ -3963,22 +3969,36 @@ input, select, textarea {
 
 				.wrapper .inner {
 					padding: 2em 2em 0.1em 2em ;
-				}
+				} */
 
-				.wrapper.spotlight .inner {
+				/* .wrapper.spotlight .inner {
 					-moz-align-items: -moz-flex-start;
 					-webkit-align-items: -webkit-flex-start;
 					-ms-align-items: -ms-flex-start;
 					align-items: flex-start;
+				} */
+				.wrapper.spotlight .inner {
+					display: block;
 				}
+	
 
 				.wrapper.spotlight .image {
-					width: 19em;
-					margin: 0 1.75em 2em 0;
+					max-width: 80%;
+					width: 240em;
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
 				}
 
-				.wrapper.spotlight:nth-child(2n - 1) .image {
+				/* .wrapper.spotlight:nth-child(2n - 1) .image {
 					margin: 0 0 2em 1.75em;
+				} */
+			.wrapper .inner .content {
+					/* padding: 2em 1.5em 0.1em 1.5em ; */
+					/* border:1px solid black; */
+					text-align: justify;
+					width:100%
+	
 				}
 
 		}
@@ -3991,8 +4011,18 @@ input, select, textarea {
 
 			.wrapper.spotlight .image {
 				margin: 0 0 1em 0 !important;
-				max-width: 85%;
-				width: 12em;
+				max-width: 100%;
+				width: 240em;
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+			}
+			.wrapper .inner .content {
+				/* padding: 2em 1.5em 0.1em 1.5em ; */
+				/* border:1px solid black; */
+				text-align: justify;
+				width:100%
+
 			}
 
 		}
@@ -4001,7 +4031,24 @@ input, select, textarea {
 
 			.wrapper .inner {
 				padding: 2em 1.5em 0.1em 1.5em ;
+
 			}
+			.wrapper .inner .content {
+				/* padding: 2em 1.5em 0.1em 1.5em ; */
+				/* border:1px solid black; */
+				text-align: justify;
+				width:100%
+
+			}
+			.wrapper.spotlight .image {
+				margin: 0 0 1em 0 !important;
+				max-width: 100%;
+				width: 240em;
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+			}
+
 
 		}
 
