@@ -3,15 +3,15 @@ main:
 
   - title: "Research"
     url: /portfolio/
-
-  - title: "Publications"
-    url: /publications/  
+    
+  - title: "DEI Work"
+    url: /talks/
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "DEI Work"
-    url: /talks/
-    
   - title: "CV"
     url: /files/JSM_CV.pdf
+
+- title: "Publications"
+    url: /publications/  
