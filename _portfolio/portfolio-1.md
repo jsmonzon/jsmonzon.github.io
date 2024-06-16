@@ -1,9 +1,11 @@
 ---
-title: "The low-mass end of the Stellar Halo Mass Relation"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/vdb.webp'>"
+title: "Constraining the Stellar Halo Mass Relation with Surveys of Satellite Galaxies"
+excerpt: "Click above to learn about my thesis work at Yale <br/><img src='/images/andromeda.webp'>"
 collection: portfolio
 ---
 
-The Stellar-Halo Mass Relation - a fundamental derivative of the galaxy-halo connection, has been investigated using a variety of different modeling techniques. From hydrodynamical simulations to ambundace matching techniques, there is an excellent correspondance between models over 5 orders of magnitude in halo mass. Until recently, there has simply been no statistically significant redshift surveys like SDSS for faint galaxies in the "classical dwarf" regime.  
-This leaves the SHMR not well constrained for halo masses less massive than that of the MW. Satellites Around Galactic Analogs (SAGA) is an imporant first step in having statistically robust galaxy samples at this low mass end.
-My work focuses on what we can learn about the SHMR using these new observations. Specificaly we are developing a semi-anayltic forward model to learn about how natural variance in the accretion histories of halos impact our ability to learn about the SHMR.
+The Stellar-Halo Mass Relation is a fundamental derivative of the galaxy-halo connection and and is well catagorized for bright "classical" galaxies. However, given there are very few statistically significant spectroscopic surveys (like SDSS) of faint "dwarf/satellite" galaxies, the SHMR is not well constrained for systems less massive than our Milky Way. The recent Satellites Around Galactic Analogs (SAGA) survey is an imporant first step towards having a statistically robust galaxy sample at this low mass end. We develope a semi-anayltic forward model to help us learn what kind of constraining power these new observations have on the SHMR.  
+
+<br/><img src='/files/stat_freedom.webp'>
+
+An illustrative selection of four wildly different SHMRs and their associated summary statistics. The top rows show the actual SHMR (solid lines), and a single mock SAGA survey realization (black asterisks). The second row shows the corresponding “stacked” Satellte Stellar Mass Functions (SSMFs) as thick colored line. The third and bottom rows shows histograms of the most massive satellite per host and the total number of satellites per host respectively. In the background of the bottom three rows we show the "SAGA-to-SAGA" variance in these summary statistics as thin grey lines. Despite the wildly different SHMRs, these four mock SAGA surveys are virtually indistinguishable in terms of their summary statistics. This means it will be difficult to place meaningful constraints on the SHMR with a SAGA-like survey. You can play around with different parametrizations of the SHMR using this [steamlit webapp](https://flexible-shmr-vqhkue4ttfuyagcdq4vfb2.streamlit.app/) I designed!

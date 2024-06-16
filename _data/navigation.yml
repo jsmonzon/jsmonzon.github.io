@@ -1,21 +1,15 @@
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /portfolio/
 
-  - title: "Talks"
+  - title: "DEI"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Teaching & Learning"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Publications"
+  #   url: /publications/
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/JSM_CV.pdf
