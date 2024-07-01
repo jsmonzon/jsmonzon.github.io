@@ -25,3 +25,11 @@ I have also been a teaching assistant for a handful of lower-division astronomy/
 (ASTR 110, ASTR 160, ASTR 170, and ASTR 180).
 
 ___
+
+## Flipped Science Fair
+### Yale University, 2023
+
+Yale Openlabs is a graduate student organization aimed at outreach to the local New Haven community. In 2023 I participated in a Flipped Science Fair Event for middle school students interested in STEM!
+
+Arguably the best poster at the event...
+<br/><img src='/images/flipped.webp' width="600">
