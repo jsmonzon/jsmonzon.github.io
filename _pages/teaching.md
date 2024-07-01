@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Astronomy Research Preperation Seminar (Astro-RPS)
+## Astronomy Research Preparation Seminar (Astro-RPS)
 ### Yale University, 2024
 
 I co-designed a new seminar; Astro-RPS at Yale as an introduction to the python programming language in the context of physics and astrophysics applications. I co-taught the seminar with [Imad Pasha](https://imad-pasha.github.io/), [Yasmeen Asali](https://www.yasmeenasali.com/) and Will Cerny. Because all research nowadays requires the use of extensive programming, in this seminar, we start from square one to build a strong foundation. We cover how to install and navigate the programming ecosystem such as the terminal/shell, before moving into how to create scientific programs in python to carry out calculations one might use in a research project. This seminar was primarily intended for students with little to no exposure to coding or astronomy research. 

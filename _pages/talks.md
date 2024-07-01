@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "DEI Intiatives and Outreach"
+title: "Leadership and Service"
 permalink: /talks/
 author_profile: true
 ---

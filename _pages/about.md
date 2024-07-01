@@ -14,7 +14,7 @@ I work primarily on the connection between galaxies and their dark matter halos.
  I grew up in Sacramento, California and am the youngest of three brothers. I recieved my B.S. from UC Santa Cruz (go slugs!) and did two years of post-grad research at NASA Ames. Outside of academia, I enjoy bouldering, disc golfing, and playing volleyball. 
 
 ### vdB Research Group
-At our departments anual Winter party
+At our departments annual Winter party
 <br/><img src='/images/group.webp'>
 
 ___ 
@@ -26,5 +26,5 @@ Can you see the disc?
 ___
 
 ### Intramural Volleyball (The Partycles)
-Going on 4 years but still no title
+Going on 4 years but still no title...
 <br/><img src='/images/volleyball.webp'>
