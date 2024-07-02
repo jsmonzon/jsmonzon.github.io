@@ -29,7 +29,7 @@ ___
 ## Astronomy Climate and Diversity Committee (ACDC)
 ### Yale University, 2021 - present
 
-Since starting at Yale, I have been involved with my departments DEI intiative: [ACDC](https://campuspress.yale.edu/acdc/). The commeittee acts as both an advisory and executive board, creating proposals and recommendations for expanded programming, structural changes, etc. Our most recent project was a python seminar for first year undergraduates. You can read about [astro-RPS](https://astro-rps.github.io/) in the [Teaching and Learning](teaching.md) tab.
+Since starting at Yale, I have been involved with my departments DEI intiative: [ACDC](https://campuspress.yale.edu/acdc/). The commeittee acts as both an advisory and executive board, creating proposals and recommendations for expanded programming, structural changes, etc. Our most recent project was a python seminar for first year undergraduates. You can read about [astro-RPS](https://astro-rps.github.io/) in the [Teaching](teaching.md) tab.
 
 ___
 
