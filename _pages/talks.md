@@ -21,8 +21,8 @@ ___
 
 The Astronomy Graduate Student Congress [(AGC)](https://astro-grad-congress.github.io/about/)  was founded by a small group of astronomy graduates who attended the 2023 dotAstro conference in NYC. Noticing that positive changes in graduate programs often come from external pressure, we created a common platform to gain a broader perspective on graduate education issues. Our goal is to unite astronomy graduate students across the U.S. to foster interdepartmental discourse and share best practices. By discussing relevant topics and collaborating, we aim to expedite positive changes and facilitate new policy implementation. Additionally, we hope the AGC will serve as a communication channel with professional societies like the AAS, easing the burden on early career scientists.
 
-dotAstronomy in NY: the birthplace of AGC
-<br/><img src='/images/dotastro.webp' width="600">
+Recent screenshot from our recent general body meeting 
+<br/><img src='/images/Oct10-GA-meeting.webp' width="600">
 
 ___
 
@@ -38,6 +38,6 @@ ___
 
 I am proudly part of Yale's SACNAS chapter, having represented my graduate curriculum at two of the annual SACNAS NDiSTEM conferences (2022, 2023). I was nominated as chair of the professional development committee for Yale SACNAS and am working hard to develop programs that give underrepresented Yale students a chance to network and learn from one another. We recently held our first ever Spanish Public Night at Leitner Planetarium and Observatory! It was a big success and gave me the rare opportunity to talk about astronomy in my native tongue. 
 
-
-
+The organizers of Spanish Night at Yale's Leitner Planetarium
+<br/><img src='/images/spanish_night.webp' width="600">
 
