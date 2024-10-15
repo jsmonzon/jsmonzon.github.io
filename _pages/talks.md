@@ -39,5 +39,5 @@ ___
 I am proudly part of Yale's SACNAS chapter, having represented my graduate curriculum at two of the annual SACNAS NDiSTEM conferences (2022, 2023). I was nominated as chair of the professional development committee for Yale SACNAS and am working hard to develop programs that give underrepresented Yale students a chance to network and learn from one another. We recently held our first ever Spanish Public Night at Leitner Planetarium and Observatory! It was a big success and gave me the rare opportunity to talk about astronomy in my native tongue. 
 
 The organizers of Spanish Night at Yale's Leitner Planetarium
-<br/><img src='/images/flipped.webp' width="600">
+<br/><img src='/images/ysacnas.webp' width="600">
 
