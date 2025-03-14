@@ -15,25 +15,21 @@ I grew up in Sacramento, California and am the youngest of three brothers. I rec
 
 ___
 
-### vdB Research Group
-At our department's annual Winter party
-<br/><img src='/images/vdb2.webp'>
-___ 
-
 ### Fancy Grads
 Winterball with the astro crew
 <br/><img src='/images/astro_squad.webp'>
 
+### Ready for takeoff
+Paragliding in Interlaken
+<br/><img src='/images/paragliding.webp'>
 
 ### Hiking in Havasupai
 Are we there yet?
 <br/><img src='/images/hiking.webp'>
 
-
 ### Frolfing with views of Lake Tahoe
 Guaranteed Bogey
 <br/><img src='/images/dgolf.webp'>
-___
 
 ### Intramural Volleyball (The Partycles)
 Going on 4 years but still no title...
