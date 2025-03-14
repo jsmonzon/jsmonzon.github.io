@@ -20,10 +20,19 @@ At our department's annual Winter party
 <br/><img src='/images/vdb2.webp'>
 ___ 
 
+### Fancy Grads
+Winterball with the astro crew
+<br/><img src='/images/astro_squad.webp'>
+
+
+### Hiking in Havasupai
+Are we there yet?
+<br/><img src='/images/hiking.webp'>
+
+
 ### Frolfing with views of Lake Tahoe
 Guaranteed Bogey
 <br/><img src='/images/dgolf.webp'>
-
 ___
 
 ### Intramural Volleyball (The Partycles)
