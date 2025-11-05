@@ -15,12 +15,16 @@ I grew up in Sacramento, California and am the youngest of three brothers. I rec
 
 ___
 
+### Only one member of the commitee left
+Time flies when you are having fun
+<br/><img src='/images/kaustav.webp'>
+
 ### Celebrating with Dr. Mitra
 Congrats Kaustav!!!
 <br/><img src='/images/kaustav.webp'>
 
-### Ready for takeoff
-Paragliding in Interlaken
+### Paragliding in Interlaken
+Ready for takeoff
 <br/><img src='/images/paragliding.webp'>
 
 ### Hiking in Havasupai
