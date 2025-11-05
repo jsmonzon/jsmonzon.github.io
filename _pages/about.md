@@ -17,7 +17,7 @@ ___
 
 ### Only one member of the commitee left
 Time flies when you are having fun
-<br/><img src='/images/kaustav.webp'>
+<br/><img src='/images/cock.webp'>
 
 ### Celebrating with Dr. Mitra
 Congrats Kaustav!!!
