@@ -15,9 +15,13 @@ I grew up in Sacramento, California and am the youngest of three brothers. I rec
 
 ___
 
-### Only one member of the commitee left
+### Only one member of the committee left
 Time flies when you are having fun
 <br/><img src='/images/cock.webp'>
+
+### Another big L for the Partycles
+We'll get em next time
+<br/><img src='/images/vball.webp'>
 
 ### Celebrating with Dr. Mitra
 Congrats Kaustav!!!
