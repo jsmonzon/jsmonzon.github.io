@@ -1,15 +1,15 @@
 main:
-  - title: "Research"
-    url: /portfolio/
+  - title: "Publications"
+    url: /publications/
 
-  - title: "DEI"
-    url: /talks/    
+  - title: "Leadership and Service"
+    url: /leadership/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Teaching and Learning"
+    url: /teaching/
+
+  - title: "Photos Blog"
+    url: /blog/    
     
   - title: "CV"
     url: /files/JSM_CV.pdf

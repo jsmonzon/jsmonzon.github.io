@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Leadership and Service"
-permalink: /talks/
+permalink: /leadership/
 author_profile: true
 ---
 *``DEI issues in STEM are often subtle and only stand out to minority groups. I strive to encourage diversity by dispelling imposter syndrome in all aspiring scientists. My success as a Latino student in STEM is intimately tied with my ability to carve out a path for those who are also racially and culturally underrepresented."*
