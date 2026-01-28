@@ -9,8 +9,12 @@ author_profile: true
 Time flies when you are having fun
 <br/><img src='/images/cock.webp'>
 
+### University of Cordoba
+Amazing place to hold a conference
+<br/><img src='/images/cordoba.webp'>
+
 ### Another big L for the Partycles
-We'll get em next time
+We'll get em next time...
 <br/><img src='/images/vball.webp'>
 
 ### Celebrating with Dr. Mitra
@@ -24,6 +28,10 @@ Ready for takeoff
 ### Hiking in Havasupai
 Are we there yet?
 <br/><img src='/images/hiking.webp'>
+
+### Choked away the intramural final
+We'll get em next time...
+<br/><img src='/images/volleyball.webp'>
 
 ### Frolfing with views of Lake Tahoe
 Guaranteed Bogey
