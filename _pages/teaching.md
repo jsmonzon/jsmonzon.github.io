@@ -5,6 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## CENCA BRIDGE
+### Yale University, 2025
+
+I worked with the [Central American - Caribbean Bridge in Astrophysics](https://cencabridgeastro.weebly.com/) program to teach two professional development workshops for undergraduate students interested in astrophysics and astronomy. The program is a virtual summer mentoring experience for Central America and the Caribbean students who would not otherwise have the opportunity to participate in undergraduate research. Recently, CENCA BRIDGE, in partnership with the NRAO, was awarded a five year grant from the Simons Foundation to continue making the fields of astrophysics and astronomy more accessible.
+___
+
+
 ## Astronomy Research Preparation Seminar (Astro-RPS)
 ### Yale University, 2024
 

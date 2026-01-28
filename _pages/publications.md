@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Statistical Predictions of the Accreted Stellar Halos around Milky Way-Like Galaxies
-### ApJ, 2024
+### submitted 2026
 
 In the ΛCDM paradigm, stellar halos form through the accretion and disruption of satellite galaxies. We introduce new semi-analytic modeling within the SatGen framework to track the ex-situ stellar components of Milky Way--like galaxies across large ensembles of merger trees, enabling a statistical study of the stochastic nature of galaxy assembly. We find that accreted stellar halos are typically built by only a few progenitors and are highly sensitive to the fate of the most massive satellite, producing order-of-magnitude variations in accreted stellar halo mass even at fixed host halo mass. Different stellar components trace distinct phases of host halo growth: central and accreted stellar mass correlate most strongly with early assembly, while surviving satellites trace more recent accretion. Finally, using Random Forest Regression, we quantify how well observable galaxy properties can recover halo assembly histories, providing a framework for interpreting upcoming low-surface-brightness observations of stellar halos. Read the paper [here](https://arxiv.org/abs/2601.18954)
 
