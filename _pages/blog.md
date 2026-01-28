@@ -7,7 +7,7 @@ author_profile: true
 
 ### Only one member of the committee left
 Time flies when you are having fun
-<br/><img src='/images/cock.webp' height="75%">
+<br/><img src='/images/cock.webp'>
 
 ### University of Cordoba
 Amazing place to hold a conference
