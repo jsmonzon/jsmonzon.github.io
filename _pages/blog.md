@@ -5,6 +5,10 @@ permalink: /blog/
 author_profile: true
 ---
 
+### The Partycles win the coveted intramural cup
+Now we can graduate in peace
+<br/><img src='/images/vball_winner.webp'>
+
 ### Only one member of the committee left
 Time flies when you are having fun
 <br/><img src='/images/cock.webp'>

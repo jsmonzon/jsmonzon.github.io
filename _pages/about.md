@@ -14,4 +14,4 @@ I work primarily on the connection between galaxies and their dark matter halos.
 I grew up in Sacramento, California and am the youngest of three brothers. I received my B.S. from UC Santa Cruz (go slugs!) and did two years of post-grad research at NASA Ames. Outside of academia, I enjoy bouldering, disc golfing, and dancing. 
 
 ---
-If you are interested in giving a talk at our weekly [Galaxy Lunch Seminar](https://yalegalaxylunch.github.io/), please reach out to me or [Chloe Neufeld](https://chloeneufeld.github.io/).
+If you are interested in giving a talk at our weekly [Galaxy Lunch Seminar](https://yalegalaxylunch.github.io/), please reach out to me.
