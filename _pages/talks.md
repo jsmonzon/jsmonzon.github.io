@@ -12,7 +12,7 @@ ___
 ## AAS Committee for the Status of Minority Students in Astronomy (CSMA)
 ### American Astronomical Society, 2024
 
-I am very proud to be one of the newest graduate student members of the [CSMA's](https://aas.org/comms/csma). The CSMA's mission is to enhance the participation of underrepresented minorities in astronomy at all levels. Having benefited immensely from STEM diversity programs at UC Santa Cruz, this mission resonates deeply with me. I am thrilled to engage in advocacy on this larger scale and look forward to learning from my fellow committee members.
+I am very proud to be a graduate student members of the [CSMA's](https://aas.org/comms/csma). The CSMA's mission is to enhance the participation of underrepresented minorities in astronomy at all levels. Having benefited immensely from STEM diversity programs at UC Santa Cruz, this mission resonates deeply with me. I am thrilled to engage in advocacy on this larger scale and look forward to learning from my fellow committee members.
 
 ___
 
